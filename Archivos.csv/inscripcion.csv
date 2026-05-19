@@ -1,0 +1,9 @@
+id_inscripcion,fecha_inscripcion,estado_asistencia,id_cliente,id_clase
+1,2026-05-07,Presente,1101112223,1
+3,2026-05-08,Presente,1105566778,3
+7,2026-05-10,Presente,1105544331,6
+6,2026-05-09,Presente,1103344552,4
+4,2026-05-08,Presente,1108899001,3
+8,2026-05-10,Presente,1106677880,1
+5,2026-05-09,Ausente,1102233119,2
+2,2026-05-07,Presente,1104433221,1
